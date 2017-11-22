@@ -5,6 +5,10 @@
 - 2.使用更高层次的pipenv(相对于virtualenv)
 - 3.使用vim插件Python-mode
 - 4.项目的结构化
+- 5.阅读大神的代码
+- 6.数据序列化
+- 7.编写c扩展
+- 8.持续集成Travis-CI
 
 ![](https://img.shields.io/badge/build%20-passing-brightgreen.svg)
 # InterviewKeyOfPython
