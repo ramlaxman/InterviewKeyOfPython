@@ -3,6 +3,7 @@
 ### 《Python最佳实践》读后感
 - 1.适当使用pypy
 - 2.使用更高层次的pipenv(相对于virtualenv)
+- 3.使用vim插件Python-mode
 
 ![](https://img.shields.io/badge/build%20-passing-brightgreen.svg)
 # InterviewKeyOfPython
