@@ -4,6 +4,7 @@
 - 1.适当使用pypy
 - 2.使用更高层次的pipenv(相对于virtualenv)
 - 3.使用vim插件Python-mode
+- 4.项目的结构化
 
 ![](https://img.shields.io/badge/build%20-passing-brightgreen.svg)
 # InterviewKeyOfPython
