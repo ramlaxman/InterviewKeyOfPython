@@ -2,6 +2,7 @@
 
 ### 《Python最佳实践》读后感
 - 1.适当使用pypy
+- 2.使用更高层次的pipenv(相对于virtualenv)
 
 ![](https://img.shields.io/badge/build%20-passing-brightgreen.svg)
 # InterviewKeyOfPython
