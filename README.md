@@ -1,5 +1,7 @@
 # 这个专题是关于面试的关键，包括面试前的准备、面试真题以及牛人们的面试经验等等，在看这个专题之前，请先看看这里的[Python最佳实践](https://github.com/PythonScientists/Python-Guide-CN)
 
+# 最近在看github上面的高分面试经验
+
 ### 《Python最佳实践》读后感
 - 1.适当使用pypy
 - 2.使用更高层次的pipenv(相对于virtualenv)
