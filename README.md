@@ -12,6 +12,8 @@
 - 7.编写c扩展
 - 8.持续集成Travis-CI
 
+###  机器学习面试题[点击这里，有福](http://blog.csdn.net/sinat_35512245/article/details/78796328)
+
 ![](https://img.shields.io/badge/build%20-passing-brightgreen.svg)
 # InterviewKeyOfPython
  Here is all about Python each related interview and interview experience （这里包含所有关于python各个相关岗位的面试真题以及面试经验）
