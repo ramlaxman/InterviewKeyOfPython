@@ -2,6 +2,8 @@
 
 # 最近在看github上面的高分面试经验
 
+# 总结的python最佳项目实践
+
 ### 《Python最佳实践》读后感
 - 1.适当使用pypy
 - 2.使用更高层次的pipenv(相对于virtualenv)
