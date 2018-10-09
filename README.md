@@ -1,18 +1,20 @@
-# 这个专题是关于面试的关键，包括面试前的准备、面试真题以及牛人们的面试经验等等，在看这个专题之前，请先看看这里的[Python最佳实践](https://github.com/PythonScientists/Python-Guide-CN)
+# Interview Key of Python
 
-# 最近在看github上面的高分面试经验
+#### This topic is about the key to the interview, including preparation before the interview, the real question of the interview, and the interview experience of the cattle. Before you look at this topic, please take a look at the [Python best practices](https://docs.python-guide.org/) here
 
-# 总结的python最佳项目实践
+#### Recently I watched the high score interview experience on github.
 
-### 《Python最佳实践》读后感
-- 1.适当使用pypy
-- 2.使用更高层次的pipenv(相对于virtualenv)
-- 3.使用vim插件Python-mode
-- 4.项目的结构化
-- 5.阅读大神的代码
-- 6.数据序列化
-- 7.编写c扩展
-- 8.持续集成Travis-CI
+#### Summary of python best project practices
+
+###  Python Best Practices
+- Proper use of pypy
+- Use a higher level pipenv (as opposed to virtualenv)
+- Use the vim plugin Python-mode
+- Structure of the project
+- Read the code of the Great God
+- Data serialization
+- Write c extensions
+- Continuous integration of Travis-CI
 
 ###  机器学习面试题[点击这里，有福](http://blog.csdn.net/sinat_35512245/article/details/78796328)
 
